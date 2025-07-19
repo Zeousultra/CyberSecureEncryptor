@@ -56,7 +56,7 @@ The script will then:
 ### ▶️ Run the tool:
 
 ```bash
-python encryptor.py
+python secure_encryptor.py
 ```
 
 ---
@@ -125,7 +125,7 @@ b'\xa2...\x91'
 
 ```
 CyberSecureEncryptor/
-├── encryptor.py           # Main encryption/decryption script
+├── secure_encryptor.py           # Main encryption/decryption script
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 ```
